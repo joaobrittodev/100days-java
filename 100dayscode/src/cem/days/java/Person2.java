@@ -1,4 +1,4 @@
 package cem.days.java;
 
-public class Dayone {
+public record Person2() {
 }
